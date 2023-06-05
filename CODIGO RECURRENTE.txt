@@ -1,6 +1,12 @@
 
 #### 3.1.1 - Exploración inicial de los datos
 
+============================================================================================================
+TEXTO RECURRENTE!!
 
 print("DIMENSIONES ANTES DE TRANSFORMACIÓN DATAFRAME: df_pendiente4  : ", df_pendiente4.shape)
 print("DIMENSIONES DESPUÉS DE TRANSFORMACIÓN DATAFRAME: df_pendiente4  : ", df_pendiente4.shape)
+
+# INSPECCIÓN VISUAL 1
+
+============================================================================================================
