@@ -1,0 +1,279 @@
+CODIGO_PROYECTO,NOMBRE_OBRA,NOMBRE_CLIENTE
+P-Pruebra,Proyecto de Prueba,Carlos Rogers
+P-896,Edificio Bicentenario,EDIFICIO BICENTENARIO 3883
+P-944,Edif. Infinity Nativa,COMUNIDAD EDIFICIO INFINITY NATIVA
+P-934,Edificio Parque Ñuñoa,EDIFICIO PARQUE ÑUÑOA
+P-713,Parque casa colon,COMUNIDAD EDIFICIO PARQUE CASA COLON
+P-923,Edif. Parque Costanera,COM. EDIF. PARQUE NUEVA COSTANERA
+P-1479,Aldunate 1525,Edificio Aldunate 1525
+P-838,Edificio Patio Centro,CCAF LOS HEROES
+P-1673,Inacap Temuco - Etapa A,Universidad Tecnologica de Chile Inacap
+P-1614,Edificio Enlace (Conde Maule),Constructora Grevia
+P-1617,Infante Videla,Constructora Grevia
+P-1638,Colón,Constructora Grevia
+P-1679,Juan Sabaj,Constructora Grevia
+P-1490,Trigales,CONSTRUCTORA E INMOBILIARIA PRADOVERDE LTDA.
+P-1503,La Oracion,CONSTRUCTORA E INMOBILIARIA PRADOVERDE LTDA.
+P-1525,Las Verbenas,CONSTRUCTORA E INMOBILIARIA PRADOVERDE LTDA.
+P-1554,Las Verbenas II,CONSTRUCTORA E INMOBILIARIA PRADOVERDE LTDA.
+P-1627,Las Trinitarias,CONSTRUCTORA E INMOBILIARIA PRADOVERDE LTDA.
+P-1691,Rosario Rosales,CONSTRUCTORA E INMOBILIARIA PRADOVERDE LTDA.
+P-1204,Vista Los Andes,BERSA KENNEDY S.A
+P-1496,Kennedy Manquehue E,BERSA KENNEDY S.A
+P-1632,Chorrillos Clorox,Constructora Suksa S.A.
+P-1643,Chorrillos M4,Constructora Suksa S.A.
+P-1674,Oficinas Beiersdorf Chorrillos,Constructora Suksa S.A.
+P-1716,CD Astara,Astara Logística Chile SpA.
+P-1566,El Tirol,Innova Ingenieria y Construccion ltda
+P-1497,Polo 6 y 7,Constructora El Cerro S.A.
+P-1470,Edificio PRO,EMPRESA CONTRUCTORA BROTEC BRAVO E IZQUIERDO LTDA.
+P-1663,Oficinas Equifax,Constructora VRK Ingenieria Limitada
+P-Suministro,Suministros Varios,Constructora VRK Ingenieria Limitada
+P-1639,Lyon 2546,Moller y Perez - Cotapos Construcciones Industriales S.A
+P-1677,Galvarino Gallardo,Moller y Perez - Cotapos Construcciones Industriales S.A
+P-1688,Suiza,Moller y Perez - Cotapos Construcciones Industriales S.A
+P-1532,Anasac Lampa,Anasac Chile S.A.
+P-1430,Constructora Tranco,CONSTRUCTORA TRANCO S.A
+P-Comercial,Asignaciones asociadas al dpto. comercial,Grupo Schutz S.A
+P-Proyectos,Carga productos generales de proyectos,Grupo Schutz S.A
+P-1100,Bastias y Cardemil,Bastias Cardemil Arquitectos Limitada
+P-1282,Edif. Las Verbenas,Inmobiliaria Edificio Las Verbenas S.A
+P-1524,Hotel City Enea,Hotel City Express Enea S.A
+P-1369,Hilton,INMOBILIARIA  POSH  LIMITADA
+P-1629,Edificio La Florida,Constructora UPC S.A.
+P-1672,Sta Clara (ccdd-telecom),Constructora UPC S.A.
+P-1520,Italia Cantauco,CANTAUCO CONSTRUCCION LTDA.
+P-1531,Circuito Italia (Cantauco CCDD),CANTAUCO CONSTRUCCION LTDA.
+P-1560,Juan Fco. Gonzalez Red Seca,CANTAUCO CONSTRUCCION LTDA.
+P-1565,Duble,CANTAUCO CONSTRUCCION LTDA.
+P-1570,Juan Fco. Gonzalez CCDD,CANTAUCO CONSTRUCCION LTDA.
+P-1574,Arturo Claro,CANTAUCO CONSTRUCCION LTDA.
+P-1588,Garcia Moreno,CANTAUCO CONSTRUCCION LTDA.
+P-1654,Exequiel Fernandez,CANTAUCO CONSTRUCCION LTDA.
+P-1690,Ongolmo - Home Condominio,CANTAUCO CONSTRUCCION LTDA.
+P-1548,Wentu,Inmobiliaria Mirador Los Trapenses S.A.
+P-1513,Barry Callebaut,Barry Callebaut Chile SpA
+P-1678,Habilitación Oficinas Pirer SPA,SOC. CONSTRUCTORA MANSILLA Y SALGADO LIMITADA
+P-1668,Quillayes Plaza,E.MOLINA MOREL CONSTRUCTORA S.A.
+P-1687,Rojas Magallanes,E.MOLINA MOREL CONSTRUCTORA S.A.
+S-1601,Oficinas Cuatrecasas,3G OFFICE LATAM CHILE ARQUITECTURA SPA
+P-1552,CDMK2,Desarrollos y Bodegas SpA
+P-1516,Iglesia Universal,Construcciones IDC  LTDA.
+P-1725,Lo Cañas,Constructora Brisas de Batuco
+P-1659,Anasac,Anasac ambiental S.A.
+P-1492,Integramedica Bandera,Jose Fernando Canales Lamar E.I.R.L
+P-1656,Mirador Club Hípico,Constructora Vital Edificacion SPA
+P-1569,Hotel Kennedy,Sociedad Operadora Hotelera HA S.A
+P-1000,Prueba,TECNOSEC S.A
+P-1655,Decathlon Pajaritos,DECATHLON CHILE S.p.A
+P-1606,Vargas Buston,EBCO S.A.
+P-1633,Lo Vial,EBCO S.A.
+P-1634,Novofarma,EBCO S.A.
+P-1650,Marathon,EBCO S.A.
+P-1709,Centro Comercial Paseo San Pedro,EBCO S.A.
+P-1712,Centro Comercial Viña Outlet Park,EBCO S.A.
+P-1718,Patio Comidas,EBCO S.A.
+P-1719,CD METALPAR,EBCO S.A.
+P-1683,CD BP-A05,EBCO S.A.
+P-1689,Casino Buenaventura,EBCO S.A.
+P-1692,José Perez Cotapos,EBCO S.A.
+P-1698,CD Andes,EBCO S.A.
+P-1700,CD Orizon,EBCO S.A.
+P-1612,Barrio Parque Santiago 7,CONSTRUCTORA ALTURAS DEL SUR S.A
+P-1671,Barrio Parque Stgo 8-9,CONSTRUCTORA ALTURAS DEL SUR S.A
+P-1596,Toxicos y corrosivos,Inmobiliaria y Rentas Logística S.A.
+P-1647,Bodega Corrosivos TW,Inmobiliaria y Rentas Logística S.A.
+P-1648,Etapa 2 CD Peralillo TW,Inmobiliaria y Rentas Logística S.A.
+P-1665,TW Cambio Racks Inflamables 1 y 2,Inmobiliaria y Rentas Logística S.A.
+P-1662,Colegio Trawhela,CONSTRUCTORA MYA SpA.
+P-1675,Palena II,CONSTRUCTORA MYA SpA.
+P-1615,Eco Santiago,Constructora ICF SPA
+P-1667,Eco Placilla,Constructora ICF SPA
+P-1694,Eco Huemul,Constructora ICF SPA
+P-1708,Eco España,Constructora ICF SPA
+P-1717,Eco Quilín I,Constructora ICF SPA
+P-1722,Eco Cerrillos,Constructora ICF SPA
+P-1702,Karun,CONSTRUCTORA UNION SpA.
+P-1521,Edificio Almirante Latorre,Constructora Santolaya Ltda.
+P-1526,El Descanso,Constructora Santolaya Ltda.
+P-1571,Ecuador II,Constructora Santolaya Ltda.
+P-1582,Villanueva,Constructora Santolaya Ltda.
+P-1605,Juan de Pineda,Constructora Santolaya Ltda.
+P-1609,Sazie Carrera,Constructora Santolaya Ltda.
+P-1625,Green Concept Sazie,Constructora Santolaya Ltda.
+P-1637,Pucará II,Constructora Santolaya Ltda.
+P-1707,Las Tranqueras,Constructora Santolaya Ltda.
+P-1537,Barrio Parque Santiago,Millenium Construcciones SPA.
+P-1562,Barrio Parque Santiago Torre 6,Millenium Construcciones SPA.
+P-1368,Capual Habitacional Interior,CONSTRUCTORA DE VICENTE S.A
+P-854,Capual Republica,CONSTRUCTORA DE VICENTE S.A
+P-844,Edificio Holanda 100,OROLEC S.A
+P-1664,MK II PCI,Comercial K SpA.
+P-1670,MK II Seguridad y Redes,Comercial K SpA.
+P-1721,Strip Center Luis Pasteur,Inmobiliaria Luis Pasteur S.A.
+P-1510,Inacap III Casas Históricas,Constructora Pesra Ltda.
+P-1693,Volta V0800,ECOBIO SPA
+P-1491,San Nicolas,Constructora Altri Ltda.
+P-1509,Charles Hamilton,Constructora Altri Ltda.
+P-1714,Departamental II,Constructora Fuerza Sur Dos Spa
+P-1640,Inacap Copiapo. Remodelacion,CONSTRUCTORA IZQUIERDO SPA.
+P-1600,Edificio Terranova,Sociedad Constructora Echavarri Hermanos Limitada
+P-1645,Los tres Antonios,Sociedad Constructora Echavarri Hermanos Limitada
+P-1502,Jardin del Alto,Constructora Centauro Limitada.
+P-1519,Vicuna Mackenna Central,Constructora Centauro Limitada.
+P-1538,Jardin del Alto,Constructora Centauro Limitada.
+P-712,Edificio Catedral III,DANACORP S.A
+P-1661,San Vicente de Paul,DANACORP S.A
+P-1703,Santa Victoria Danacorp,DANACORP S.A
+P-1498,Santo Domingo III,DANACORP S.A
+P-1514,Chile España,DANACORP S.A
+P-1529,Santo Domingo1470,DANACORP S.A
+P-1546,La Marina,DANACORP S.A
+P-1576,Santo Domingo 1450,DANACORP S.A
+P-1636,Santo Domingo 1410,DANACORP S.A
+P-1480,Llico Danacorp,DANACORP S.A
+P-1701,Edificio Zenteno,CONSTRUCTORA GREVIA SpA.
+P-1635,Exequiel Fernandez 1455,Ingeniería y Construcción Errebe Ltda.
+P-1657,Planta Interbake,Interbake Chile SPA
+P-1595,Hogares,Empresa Constructora Vascro SPA
+P-1618,Gym Pichilemu,Empresa Constructora Vascro SPA
+P-1651,Planta Cordillera,TECNOLOGIAS GRÁFICAS CORDILLERA S.A.
+P-1366,Edif.Padre Mariano,CONSTRUCTORA ARMAS LTDA
+P-1499,Mariategui,CONSTRUCTORA ARMAS LTDA
+P-1506,Walker Martinez,CONSTRUCTORA ARMAS LTDA
+P-1515,Pio X,CONSTRUCTORA ARMAS LTDA
+P-1583,San Ignacio,CONSTRUCTORA ARMAS LTDA
+P-544,Edif. Corporativo Armas Cabild,CONSTRUCTORA ARMAS LTDA
+P-666,Edificio Jardines de Infante,CONSTRUCTORA ARMAS LTDA
+P-776,Manquehue Sur 1220,CONSTRUCTORA ARMAS LTDA
+P-1658,VIVIPRA,Vicherat y Pradenas Ltda.
+P-1549,Teniente Montt,Inmobiliaria y Constructora Hogares S.A.
+P-1631,Edificio Plaza Bilbao,CONSTRUCTORA E INVERSIONES VITAL SPA.
+P-1653,Eduardo de la Barra,CONSTRUCTORA E INVERSIONES VITAL SPA.
+P-1706,California,CONSTRUCTORA E INVERSIONES VITAL SPA.
+P-1523,El Tranque,CONSTRUCTORA SANTA TERESA LTDA.
+P-1547,El Tranque II,CONSTRUCTORA SANTA TERESA LTDA.
+P-1585,La Llavería,CONSTRUCTORA SANTA TERESA LTDA.
+P-1604,CHC Roca,Comercial Hispano Chilena Ltda.
+P-1193,Inacap Etapa II,Desarrollos Constructivos Axis Sociedad Anonima
+P-1508,Inacap Rancagua,Desarrollos Constructivos Axis Sociedad Anonima
+P-1599,Inacap Copiapó,Desarrollos Constructivos Axis Sociedad Anonima
+P-1622,Inacap Arica,Desarrollos Constructivos Axis Sociedad Anonima
+P-1641,Inacap Temuco,Desarrollos Constructivos Axis Sociedad Anonima
+P-1630,Inacap San Pedro,Claro Vicuña Valenzuela S.A.
+P-1685,Mapa Edificios No Operacionales,Claro Vicuña Valenzuela S.A.
+P-1489,Polideportivo Estación Central,Larrain Prieto Risopatron S.A.
+P-1660,Coronel Alvarado,Larrain Prieto Risopatron S.A.
+P-1500,Zofri Etapa VII,EMPRESA CONSTRUCTORA BRAVO E IZQUIERDO
+P-1517,Estacionamientos Pedro de Valdivia,EMPRESA CONSTRUCTORA BRAVO E IZQUIERDO
+P-507,Biblioteca UDP,EMPRESA CONSTRUCTORA BRAVO E IZQUIERDO
+P-697,Aiep Grajales,EMPRESA CONSTRUCTORA BRAVO E IZQUIERDO
+P-1695,Edificio Estoril,EMPRESA CONSTRUCTORA BRAVO E IZQUIERDO
+P-1504,Planta Asmar,EMELTA S.A.
+P-767,Bicenenario 4017, Constructora Almagro S.A
+P-1367,Bustamante Torre B,Constructora Novatec S.A
+P-1501,Marin II B,Constructora Novatec S.A
+P-1594,Laguna Santiago,Constructora Novatec S.A
+P-1646,Jardines del Valle,Constructora Novatec S.A
+P-1624,Fachada Oriente PUC,Rodríguez y Rodríguez Construcciones Ltda.
+P-1535,Amapolas,Empresa Constructora DLP S.A.
+P-1603,Farellones,Empresa Constructora DLP S.A.
+P-1699,Villa Panamericana Lote B,Empresa Constructora DLP S.A.
+P-1493,Homy Plaza Vespucio,Empresa Constructora Desco S.A.
+P-1442,Edificio La Calesa,MOLLER Y PEREZ COTAPOS ING Y CONST LTDA
+P-1488,San Damian,MOLLER Y PEREZ COTAPOS ING Y CONST LTDA
+P-1616,Simon Bolivar 2424,MOLLER Y PEREZ COTAPOS ING Y CONST LTDA
+P-496,Edificio El Ciprés,MOLLER Y PEREZ COTAPOS ING Y CONST LTDA
+P-756,Instituto Goethe,CONSTRUCTORA RALUN LTDA
+P-1533,FLSmidth Renca,FLSMIDTH S.A
+P-1374,Edif. Pedro Gamboa,EMPRESA CONSTRUCTORA INGEVEC S.A.
+P-1686,Macul Icalma,EMPRESA CONSTRUCTORA INGEVEC S.A.
+P-998,Inacap Los Angeles,EMPRESA CONSTRUCTORA INGEVEC S.A.
+P-1680,Nueva Uno,Constructora Tecsa S.A.
+P-1681, CD Rosen (CCTV Provisorio),Colchones ROSEN SAIC
+P-1495,David del Curto Curico,David del Curto S.A.
+P-1621,Renault - Cormecanica,INDUSTRIA DE CONJUNTOS MECANICOS ACONCAGUA S.A
+P-1580,Bodegas Tobalaba II,Inversiones Viscachas SPA
+P-1581,CCTV Bodegas Tobalaba II,Inversiones Viscachas SPA
+P-1545,Locales Construmart,CONSTRUMART SA
+P-1527,Inacap Curicó,CONSTRUCTORA INARCO S.A.
+P-1539,Inacap Valdivia,CONSTRUCTORA INARCO S.A.
+P-1584,Andes de la Dehesa (deteccion de incendios),CONSTRUCTORA INARCO S.A.
+P-1593,Oficinas Apoquindo,CONSTRUCTORA INARCO S.A.
+P-1613,Andes Los Leones,CONSTRUCTORA INARCO S.A.
+P-1620,"OF Apoquindo- Habilitaciones, Integracion y adicionales.",CONSTRUCTORA INARCO S.A.
+P-1705,Los Clarines,CONSTRUCTORA INARCO S.A.
+P-1522,Silvina Hurtado,Fernandez Wood Constructora S.A.
+P-1518,Teresa Concha,EMP. CONSTRUCTORA INGENIEROS S.A.
+P-1619,Llewellyn Jones,EMP. CONSTRUCTORA INGENIEROS S.A.
+P-1642,Corinto,EMP. CONSTRUCTORA INGENIEROS S.A.
+P-1669,Departamental,EMP. CONSTRUCTORA INGENIEROS S.A.
+P-1682,Plaza Ceppi,EMP. CONSTRUCTORA INGENIEROS S.A.
+P-1361,Clinica Reñaca,Constructora LYD S.A.
+P-1608,Colegio de Ingenieros,Constructora LYD S.A.
+P-1626,Clinica Bio Bio,Constructora LYD S.A.
+P-1505,Inacap Puente alto,CONSTRUCTORA JCE S.A.
+P-1713,Reserva San Francisco,EMPRESA NACIONAL DE CONSTRUCCIÓN LAS VERTIENTES SPA
+P-1715,CD Lo Echevers,Quezada y Boetsch
+P-1723,Villa Panamericana Lote C,Constructora Mena y Ovalle S.A.
+P-1551,Edificio Donatello,SACYR CHILE S.A.
+P-1553,El Roble,SACYR CHILE S.A.
+P-1710,Ecuador Amengual,ECHEVERRIA S.A
+P-1711,New Independencia,ECHEVERRIA S.A
+P-1494,Arboleda Oriente,Constructora Terracorp S.A.
+P-1696,Santa Victoria - Terracorp,Constructora Terracorp S.A.
+P-1534,Centro de Distribución MK,DELTA INGENIERIA Y CONSTRUCCION S.A.
+P-1507,Edificio Tantum,EBCO S.A.
+P-1511,Edificio Miro,EBCO S.A.
+P-1512,Megacentro subte al 3ero ambas torres,EBCO S.A.
+P-1528,Policlínico Megacentro,EBCO S.A.
+P-1530,Megacentro Norte piso 6 Nuestros Hijos,EBCO S.A.
+P-1536,Ricardo Matte,EBCO S.A.
+P-1684,Edificio Goycolea,EBCO S.A.
+P-1704,CD Mercado Libre Mezzanina,EBCO S.A.
+P-1623,Estoril II,EBCO S.A.
+P-1628,Centro Comercial El Morro,EBCO S.A.
+P-1644,Mirador de San Cristobal,EBCO S.A.
+P-1652,Abdon Cifuentes,EBCO S.A.
+P-1666,CD Axionlong,EBCO S.A.
+P-1676,Lo Campino,EBCO S.A.
+P-1591,Edificio Estoril,EBCO S.A.
+P-1592,Nueva Costanera 3300,EBCO S.A.
+P-1597,"Megacentro Piso 4, 5 Sur y Altillo",EBCO S.A.
+P-1607,Megacentro Piso 9 SUR,EBCO S.A.
+P-1610,Antonio Bellet (BOTH),EBCO S.A.
+P-1611,Edificio Plaza Egaña,EBCO S.A.
+P-1577,CCEE Adicional Megacentro,EBCO S.A.
+P-1578,Parque Trinidad,EBCO S.A.
+P-1579,Megacentro Piso 7 Sur,EBCO S.A.
+P-1586,Megacentro Piso 7 NORTE,EBCO S.A.
+P-1587,Megacentro Piso 6 SUR,EBCO S.A.
+P-1590,Mirador del Portezuelo,EBCO S.A.
+P-1564,Cuarta Avenida,EBCO S.A.
+P-1567,Megacentro -1 Sur,EBCO S.A.
+P-1568,Megacentro Piso 8 Sur,EBCO S.A.
+P-1572,Factoria Italia II,EBCO S.A.
+P-1573,Megacentro Locales Comerciales,EBCO S.A.
+P-1575,Ecolab,EBCO S.A.
+P-1556,Wisconsin y Arguello,EBCO S.A.
+P-1557,Rosario Rosales,EBCO S.A.
+P-1558,Colores del abra,EBCO S.A.
+P-1559,Megacentro Norte piso 2y3 casino Cuerpo N,EBCO S.A.
+P-1561,Chiloe,EBCO S.A.
+P-1563,Sala Consejales (megacentro),EBCO S.A.
+P-1540,Megacentro Citofonía Piso 8,EBCO S.A.
+P-1541,Megacentro Ochagavia Piso 8,EBCO S.A.
+P-1542,Megacentro Nucleo Central Accesos,EBCO S.A.
+P-1544,Megacentro Nucleo Central CCTV Deteccion,EBCO S.A.
+P-1550,Megacentro Piso 7,EBCO S.A.
+P-1555,Kennedy,EBCO S.A.
+P-1543,Oficinas Banmerchant,Inmobiliaria Vitalia S.A.
+P-1649,Inacap Vitacura E2,CONSTRUCTORA CUEVAS Y PURCELL S.A.
+P-1697,Estocolmo,Constructora Fortaleza S.A
+P-1589,Blue Express Almacenes 2 y 3,Blue Express S.A.
+P-1602,Altum Concha y Toro,CONSTRUCTORA NOVATEC EDIFICIOS S.A
+P-827,Constructora San Ignacio,CONSTRUCTORA SAN IGNACIO LTDA
+P-Comercial,Asignaciones asociadas al dpto. comercial,Grupo Schutz S.A.
+P-Proyectos,Carga productos generales de proyectos,Grupo Schutz S.A.
+P-Comercial,Asignaciones asociadas al dpto. comercial,Grupo Schutz S.A.
+P-Proyectos,Carga productos generales de proyectos,Grupo Schutz S.A.
