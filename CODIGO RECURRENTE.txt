@@ -9,4 +9,10 @@ print("DIMENSIONES DESPUÉS DE TRANSFORMACIÓN DATAFRAME: df_pendiente4  : ", df
 
 # INSPECCIÓN VISUAL 1
 
+
+df_desp_realizados5_1M.to_csv('archivos_respaldo/df_desp_realizados5_1M.csv', mode='a')
+
+Merge entre Dataframes: df_libro_mayor5 y df_cod_proyecto
+
 ============================================================================================================
+
