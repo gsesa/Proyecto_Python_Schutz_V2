@@ -1,0 +1,900 @@
+IDEMPLEADO,RUT,Nombre,apellidopaterno,apellidomaterno,idtipoempleado
+1802763,18027263-1,Maikol Alexander,Jerez,Pontillo,PI
+4371391,4371391-4,Fernando Eduardo,Moreno,Laulié,GE
+5199881,5199881-2,Carlos  Antonio,Vargas,Mahuzier,GE
+5865099,5865099-4,Raul Orlando,Vasquez,Reinoso,GE
+6165547,6165547-6,Ricardo Antonio,Marin,Oyarce,GE
+6376208,6376208-3,Jose Luis,Arenas,Fernandez Romo,GE
+6381043,6381043-6,Rene,Beghello,Miranda,GE
+6556784,6556784-9,Juan de Dios,Salinas,Gonzalez,GE
+7312675,7312675-4,Demetrio Roque,Agloni,Del Amo,AF
+7369329,7369329-2,Rafael Antonio,Lathrop,Olivares,CR
+7435204,7435204-9,Pablo Gabriel,Henriquez,Flores,IN
+7499043,7499043-6,Carlos Armando,Calderon,Espinola,GE
+7588441,7588441-9,Fernando,Parra,Matamala,GE
+7623022,7623022-6,Marco Leopoldo,Chacana,Barra,IN
+7706114,7706114-2,Norma Filomena,Tapia,Bustamante,AF
+7740693,7740693-K,Guillermo Hugo,Carvajal,Gatica,GE
+7878799,7878799-6,Guillermina Del Carmen,Suazo,Riquelme,GE
+7923417,7923417-6,Mario Luis,Gandarillas,Saintard,GE
+8050219,8050219-2,Gerardo Guillermo,Mery,Grez,GE
+8281110,8281110-9,Pedro Eduardo,Zapata,Ramirez,CD
+8282106,24769866-3,Francisco Javier,Aguilar,Garcia,GE
+8299662,8299662-1,Sergio Francisco,Carvallo,Cruzs,GE
+8351336,8351336-5,Emilio Fernando,Zapata,Maldonado,GE
+8541959,8541959-5,Pablo Horacio,Leyton,Navarro,GE
+8584013,8584013-4,William Nelson,Herrera,Caneleo,AD
+8592055,8592055-3,Juan,Maturana,Palma,GE
+8606789,8606789-7,Mauricio Arturo,Bastias,Venegas,SX
+8765125,8765125-8,Ramon,Allendes,Bustamante,GE
+8821303,8821303-3,Maria Magdalena,Martinez,Soto,GE
+8826438,8826438-K,Guillermo Domingo,Jorquera,Flores,GE
+8831530,8831530-8,Lubor,Stegmaier,Muñoz,AD
+8841773,8841773-9,Francisco Dagoberto,Cubillos,Rocca,AF
+8866764,8866764-6,Henzel Salvador,Carrasco,Contreras,TT
+9082425,9082425-2,Francisco Javier,Urria,Hering,CR
+9105878,9905878-1,Antonio,Beghello,De la Sotta,TT
+9130237,9130237-3,Jorge,Rogers,Errazuriz,GE
+9217119,9217119-1,Manuel Christian,Lopez,Castillo,CD
+9265675,9265675-6,Juan Arturo,Neira,Silva,GE
+9280269,9280269-8,Wintor Hugo,Lazcano,Sanhueza,GE
+9392669,9392669-2,Conrado Renato,Retamales,Contreras,GE
+9450872,9450872-k,Mauricio Hernan,Ruiz,Godoy,GE
+9572048,9.572.048-K,Felix Segundo,Pacheco,Contreras,CO
+9669667,9669667-1,Ricardo Rosendo,Guajardo,Mercado,GE
+9701381,9701381-0,Pedro Alberto,Araya,Gaete,GE
+9747042,9747042-1,Andres Marcelo,Figueroa,Fuentes,GE
+9782476,9782476-2,Juan Alberto,Pacheco,Morales,GE
+9819984,9819984-5,Rodrigo Antonio,Ordenes,Avalos,TT
+9832286,9832286-8,Eduardo Anibal,Figueroa,Ruhe,CO
+9866890,9866890-k,Manuel Ignacio,Guzman,Rojas,PI
+9982188,9982188-4,Alexandro Jose A.,Escalona,Reimers,GE
+9991423,9991423-8,Cristian Hernan,Gallegos,Azocar,GE
+10031357,10031357-K,Hector Agustin,Piraces,Miranda,CO
+10111189,10111189-K,Robinson Dagoberto,Carrasco,Contreras,GE
+10120145,10120145-7,Luis Alberto,Soto,Avila,GE
+10120547,10120547-9,Mauricio Alejandro,Troncoso,Lastra,EX
+10154587,10154587-3,Jose Bernardo,Torres,Gonzalez,IN
+10157686,10157686-8,Oscar Enrique,Gajardo,Medel,GE
+10177173,10177173-3,Darwin,Goitiandia,Molina,SX
+10183518,10.183.518-9,Sergio Manuel,Novoa,Vega,EX
+10190955,10190955-7,Manuel Bernardo,Caro,Aguilar,GE
+10191407,10191407-0,Roberto Pablo,Cortes,Lopez,GE
+10215964,10215964-0,Luis Alberto,Carrasco,Salas,AF
+10221727,10221727-6,Luis Rodrigo,Vargas,Morales,TT
+10279757,10279757-4,Ponciano Mauricio,Fuentes,Lobos,GE
+10287962,10287962-7,Juan Alberto,Campos,Valdivia,GE
+10309353,10309353-8,Pablo Dionicio,Escobar,Epulef,GE
+10349443,10349443-5,Horacio Javier,Santana,Urria,IN
+10374163,10374163-7,Claudio Enrique,Gonzalez,Saavedra,GE
+10403366,10403366-0,Ruben Anselmo,Alarcon,Chavez,GE
+10463132,10463132-0,Ignacio Esteban,Toro,Garcia,GE
+10464124,10464124-5,Christian Patricio,Núñez,Tapia,GE
+10472503,10472503-1,Carlos Ariosto,Mora,Henriquez,GE
+10513466,10513466-5,Luis Humberto,Burgos,Silva,TT
+10631730,10631730-5,Juan Eduardo,Muñoz,Rojas,GE
+10646245,10646245-3,Sebastian Arturo,an der Fuhren,Vargas,GE
+10659869,10659869-K,Jaime Eduardo,Saxonis,Monsalve,EX
+10684007,10684007-5,Angel,Vergara,Yañez,EX
+10685228,10685228-6,Leonardo Esteban,Mora,Rodriguez,GE
+10691380,10691380-3,Pablo Alejandro,Delannoy,Gomez,GE
+10744017,10744017-8,Juan Andres,Torres,Salgado,GE
+10770118,10770118-4,Belarmino,Espinoza,Cancino,PI
+10828423,10828423-4,Juan Carlos,Gallardo,Andrade,GE
+10909957,10909957-0,Jorge Alejandro,Campos,Campos,PI
+10910155,10910155-9,Juan Antonio,Barrera,Salinas,PI
+10924715,10924715-4,Carlos Alberto,Cortes,VIvanco,EX
+10971648,10971648-0,sergio Hernan,Herrera,Chacana,GE
+11082762,40088612-1,Arnold Thomas,Roa,Araque,TT
+11082996,,Julio Gabriel,Morey,Astudillo,GE
+11257489,11257489-1,Cesar Antonio,Ortiz,Merida,GE
+11285399,11285399-5,Jose Manuel,Jara,Poblete,PI
+11390718,11390718-5,Marcia Andrea,Reyes,Miranda,GE
+11438219,11438219-1,Jose Manuel,Rosel,Gonzalez,GE
+11438295,11438295-7,Rene Alejandro,Rojas,Olivares,EX
+11474055,11474055-1,Sergio Vicente,Garay,Rojas,CD
+11488073,11488073-6,Miguel Angel,Esparza,Stuezel,EX
+11489308,11489308-0,Elias Mauricio,De La Fuente,Bustos,CD
+11566427,11566427-1,Nector Claudio,Maureira,Cofre,AD
+11627092,11627092-7,Rosa Amelia,Silva,Soto,CR
+11637272,11637272-K,Arturo Eusebio,Perez,Matus,PI
+11684637,11684637-3,Igor Antonio,Ojeda,Norambuena,TT
+11756033,11756033-3,Hector Ivan,Ayala,Gomez,TT
+11762200,11762200-2,Daniel Alejandro,Reyes,Guajardo,PI
+11846365,11846365-K,Carlos,Rogers,Errazuriz,CR
+11859781,11859781-8,Alejandro Teobaldo,Valdebenito,Guajardo,EX
+11871263,11871263-3,Juan David,Valero,Garrido,GE
+11895813,11895813-6,Oscar Andrés,Sánchez,Peña,SX
+11899201,11899201-6,Fernando Javier,Sanhueza,Moreno,TT
+11902867,11902867-1,Richard,Beltran,Yañez,TT
+11951953,11951953-5,Ramon Antonio,Fredes,Becerra,GE
+12035660,12035660-7,Marcelo Ivan Victor,Santtiz,Miranda,DS
+12057741,12057741-7,Luis Alejandro,Labra,Moreau,GE
+12108544,12108544-5,Marcos,Arellano,Contreras,EX
+12122734,12122734-7,Juan Patricio,Arellano,Peralta,GE
+12250245,12250245-7,Daniel Jacob,Ortega,Gonzalez,GE
+12286717,12286717-K,Carlos Fernando,Calvio,Ñancucheo,CD
+12291050,12291050-4,Diego Alejandro,Molina,Andrade,IN
+12418883,12418883-0,Margarita Macarena,Bahamondes,Lagos,GE
+12461115,12461115-6,Karin Alex,Pereira,Saldivia,GE
+12461302,12461302-7,Francisco Daniel,Muñoz,Nuñez,TT
+12465936,12465936-1,Alicia,Vargas,Arce,GE
+12479526,12479526-5,Alexis Omar,Botello,Botello,PI
+12480544,12480544-9,Hugo Orlando,Vasquez,Godoy,GE
+12494302,12494302-7,Alex Robinson,Torres,Cid,GE
+12497881,12497881-5,Claudio Edgardo,Garcia,Rodriguez,GE
+12501163,12501163-2,Oscar Mauricio,Altamirano,Becerra,CD
+12502891,12502891-8,Juan Agustin,Troncoso,Lagos,GE
+12506631,12506631-3,Michel Andres,Moris,Sanchez,GE
+12579733,12579733-4,Carlos Alejandro,Orellana,Jara,GE
+12584954,12584954-7,Francisco Jose,Avaria,Marraccini,GE
+12623473,12623473-2,Pablo Antonio,Arancibia,Molina,EX
+12630303,12630303-3,Freddy Andres,Romero,Barrera,GE
+12649281,12649281-2,Robert  R.,Roa,Gomez,GE
+12649702,12649702-4,Richard Eugenio,Acuña,Ruiz,EX
+12660539,12660539-0,Irene del Carmen,Riveros,Insotroza,GE
+12681779,12681779-7,Alvaro Francisco,Jhon,Casanova,EX
+12685824,12685824-8,Pablo Cesar,Garcia,Rojas,EX
+12696484,12696484-6,Ricardo Alejandro,Fuentealba,Gacitua,TT
+12704608,12704608-5,Richard Juan,Hernandez,Rodriguez,TT
+12743709,12743709-2,Hipolito,Riffo,Painefilo,GE
+12764949,12764949-9,Cristian Andres,Muñoz,Silva,SX
+12779377,12779377-8,Cecilia Jacqueline,Carrasco,Yañez,GE
+12857881,12857881-1,Jorge Mauricio,Santana,Pacheco,EX
+12874444,12874444-4,Hector Andres,Meneses,Vargas,AF
+12877089,12877089-5,Michel Eduardo,Gonzalez,Morales,CD
+12883664,12883664-0,Jorge Andres,De la fuente,Garcia,TT
+12894793,12894793-0,Pedro Ricardo,Soto,Sepulveda,TT
+12895293,12895293-4,Katherine Ximena,Claviere,Carvajal,DS
+12898035,12898035-0,John William,Tapia,Alcaino,GE
+12920877,12920877-5,Claudio Alejandro,Neira,Aguayo,GE
+12976144,12976144-K,Paul Alexis,Ferreira,Herrera,GE
+13006346,13006346-2,Marcelo,Palma,Ortiz,EX
+13035208,13035208-1,Victor Manuel,Cona,Canio,CD
+13042966,13042966-1,Juan Roberto,Quidel,Rubilar,SX
+13049205,13049205-3,Hugo Adrian,Nuñez,Jimenez,PI
+13056802,13056802-5,Carlos Arturo Andres,Toro,Leyton,CO
+13061932,13061932-0,Patricia Pamela,Gacitua,Guajardo,GE
+13062659,13062659-9,German Hugo,Torres,Becerra,EX
+13072623,13072623-2,Luis Rodrigo,Orellana,Marquez,EX
+13084498,13084498-7,Flavio Enrique,Huilipan,Aliante,PI
+13116369,13116369-k,Hipolito Cesar,Huaquinir,Burgos,GE
+13134665,13134665-4,Cesar David,Villarroel,Salazar,TT
+13198592,13198592-4,Sergio Maximiliano,Gonzalez,Salgado,GE
+13200322,13200322-K,Jose Vicente,Plaza,Medina,TT
+13236361,13236361-7,Jimmy Christian,Contreras,Coña,TT
+13239828,13239828-3,Ana Maria,Varela,Catalan,IN
+13242797,13242797-6,Patricia Andrea,Carrasco,Palominos,AF
+13243490,13243490-5,Luis Alberto,Parra,Retamal,GE
+13244105,13244105-7,Sergio Esteban,Maureira,Cofre,AD
+13271063,13271063-5,Jorge Esteban,Padilla,Yañez,GE
+13272799,13272799-6,Cristian Alejandro,Gonzalez,Garces,GE
+13274644,13274644-3,Jaime Andres,Zelada,Rojas,GE
+13277374,13277374-2,Jose Andres,Alvayay,Rivas,EX
+13277744,13277744-6,Maria Angelica,Gonzalez,Figueroa,AF
+13285624,13285624-9,Manuel Enrique,Vargas,Pardo,PI
+13290115,13290115-5,Marco Manuel,Gonzalez,Lopez,GE
+13290129,13290129-5,Jose Armando,Cubillos,Vera,TT
+13294268,13294268-4,Victor Gonzalo,Fajardo,Estay,TT
+13300428,13300428-9,Roberto Enrique,Alarcon,Maldonado,GE
+13334165,13334165-k,Mauricio Enrique,Alvarado,Flores,GE
+13337101,13337101-K,RONY PATRICIO,PARDO,GUTIERREZ,EX
+13369521,13369521-4,Luis Patricio,Pacheco,Guerra,GE
+13433502,13433502-5,Javier Andres,Ortiz,Acevedo,GE
+13451017,13451017-k,Ricardo Esteban,Muñoz,Bucarey,GE
+13452233,13452233-k,Patricio Roberto,Chamorro,Guajardo,GE
+13461361,13461361-0,Hernan Alejandro,Castro,Salazar,GE
+13464587,13464587-3,Daniel Rodrigo,Perez,Vega,GE
+13469242,13469242-1,Michael Enrique,Jaramillo,Diaz,GE
+13469983,13469983-3,Edgardo Reinaldo,Silva,Cisternas,GE
+13472594,13472594-K,Jaime Hernan,Araya,Cortes,TT
+13484738,13484738-7,Jose Mauricio H.,Reyes,Angulo,GE
+13487640,13487640-9,Jose Florentino,Oteiza,Perez,CD
+13492054,13492054-8,Luis Jose,Alegria,Canales,GE
+13497542,13497542-3,Joaquin Octavio,Pardo,Parodi,EX
+13550811,13550811-k,Roberto Andres,Orellana,Jaña,GE
+13564241,13564241-K,Sandra Jessica,Ferrer,Galvez,AF
+13656581,13656581-8,Jimmy John Enrique,Opazo,Campos,GE
+13666318,13666318-6,Jonathan David,Colil,Pedreros,SP
+13677223,13677223-6,Ivan Eduardo,Esparza,Evangelisti,TT
+13677891,13677891-9,Jorge Ariel,Donoso,López,IN
+13681627,13681627-6,Andres Eduardo,Valdes,Miranda,GE
+13685478,13685478-K,Leonardo Antonio,Lefian,Escobar,CD
+13700105,13700105-5,Javier Andres,Zamora,Abarca,PI
+13705194,13705194-k,Hector E.,Serrano,Farias,GE
+13716310,13716310-1,Rodrigo Enrique,Zavala,Morales,GE
+13778088,13778088-7,Eliana R.,Flores,Molina,GE
+13834274,13834274-3,Luis Alberto,Valdez,Pinochet,GE
+13836810,13836810-6,Sergio,Aguilera,Suazo,EX
+13846690,13846690-6,Oscar Leonardo,Fernandez,Andrade,GE
+13848089,13848089-5,Erwin Amador,Carrasco,Gonzalez,GE
+13885855,13885855-3,Cristian Antonio,Santander,Labraña,AF
+13888121,13888121-0,Francisco Roberto,Aviles,Rivera,GE
+13893898,13893898-0,Dante Oliver,Romero,Fonseca,GE
+13894081,13894081-0,Oscar Esteban,Mendez,Chavez,GE
+13895430,13895430-7,Guillermo Andres,Carvajal,Castro,GE
+13896754,13896754-9,Jonathan Antonio,Gonzalez,Caceres,GE
+13901036,13901036-1,Raul G.,Lopez,Ortiz,GE
+13902403,13902403-6,Victor Nahuel Emilio,Ortiz,Figueroa,TT
+13916008,13916008-8,Ricardo  Antonio,Cortez,Pérez,EX
+13920253,13920253-8,Esteban Alejandro,Arroyo,Loyola,SX
+13941343,13941343-1,Eduardo Antonio,Navarro,Bravo,GE
+13942458,13942458-1,Carlos Rodrigo,Castillo,Vargas,GE
+13945827,13945827-3,Carlos Enrique,Hernandez,Cabello,TT
+13954827,13954827-2,Marco Enrique,Rodriguez,Leiva,DS
+14003034,14003034-1,Mario Alexis,Ortega,Huentenao,TT
+14058277,14058277-8,Hector Gustavo,Troncoso,Muñoz,TT
+14140840,14140840-2,Patricio Andres,Donoso,Quimen,IN
+14145376,14145376-9,Daniel Antonio,Quintana,Navarro,TT
+14160398,14160398-1,Nicole Cecilia,Loyola,Torres,AF
+14169957,14169957-1,Erwin Walter,Mardorf,Pino,GE
+14178481,14178481-1,Felipe Nicolas,Araya,Araneda,GE
+14180013,14180013-2,Marcela Eliana,Rozas,Quintana,GE
+14188875,14188875-7,Oscar Daniel,Opazo,Ortiz,CD
+14193223,14193223-3,Roberto Esteban,Rios,Araya,GE
+14194332,14194332-4,Daniel Arturo,Muñoz,Espinoza,GE
+14197652,14197652-4,Andres Hernan,Santana,Santana,PI
+14209552,14209552-1,Cristian Enrique,Muñoz,Martinez,TT
+14213057,14213057-2,Paula Andres,Valencia,Montaner,GE
+14225414,14225414-K,Andy Mauricio,Ruiz,Valderas,GE
+14226932,14226932-5,Claudio Andres,Barrientos,Paylamilla,GE
+14254903,14254903-4,Jaime Esteban,Nuñez,Rios,TT
+14426193,14426193-3,Rafael Esteban,Mauro,Vega,GE
+14428523,14428523-9,Ruth Carolyn,Leyton,Arevalo,IN
+14440177,14440177-8,Rodrigo Alejandro,Fano,Davila,GE
+14507826,14507826-1,Gabriel Elias,Zuñiga,Diaz,GE
+14511983,14511983-9,Marilyn Andrea,Gonzalez,Zamorano,GE
+14536708,14536708-5,Victor Nicolas,Otarola,Gonzalez,EX
+14561175,14561175-K,Pablo Segundo,Cuevas,Navarrete,GE
+14565021,14565021-6,Francisco Manuel,Curivil,Curivil,DS
+14580579,14580579-1,Victor Francisco,Podesta,Aguilera,GE
+14610371,14610371-5,Hector Hernan,Campos,Ibarra,CD
+14700644,14700644-6,Edgar Grover,Beltran,Rodriguez,EX
+15004519,15004519-3,Daniela Andrea,Salinas,Vildoso,GE
+15071392,15071392-7,Juan Jose,Perez,Bustillo,PI
+15088285,15088285-0,Patricio Rene,Neira,Garcia,GE
+15122083,15122083-5,Luis Miguel,Palominos,Flores,EX
+15156810,15156810-6,Cristian Patricio,Fuentes,Oliva,SX
+15245994,15245994-7,Patricio Alberto,Martinez,Rios,CD
+15293272,15293272-3,Jose Miguel,Neira,Muñoz,GE
+15314100,15314100-2,Maria del Rosario,Yañez,Vio,GE
+15328407,15328407-5,Jorge Enrique,Muñoz,Salas,GE
+15328408,15328408-3,Nelson Fernando,Muñoz,Salas,GE
+15329288,15329288-4,Renato Andres,Santa Maria,Sandoval,GE
+15334188,15334188-5,Magaly del Rosario,Leon,Cural,GE
+15334808,15334808-1,Juan Alexis,Flores,Martinez,GE
+15337933,15337933-5,Juan Carlos,Cespedes,Rodriguez,GE
+15343297,15343297-k,Catalina Del Pilar,Vargas,Hugeat,GE
+15348537,15348537-2,Claudio Esteban,Tapia,Andrade,EX
+15350778,15350778-3,Sergio Osvaldo,Carrasco,Sanhueza,CD
+15360136,15360136-4,Mauricio Andres,Plaza,Vargas,GE
+15371458,15371458-4,Maria Jose,Flores,Guerra,SX
+15387605,15387605-3,Gabriela Andrea,Orellana,Alfaro,GE
+15419412,15419412-6,Alexander Eduardo,Mena,Pedreros,GE
+15428311,15428311-0,Maximiliano Francisco Javier,Larrecheda,Iturra,EX
+15432773,15432773-8,Patricio Esteban,Araneda,Sanchez,SD
+15441862,15441862-8,Moises Orlando,Olguin,Inostroza,DS
+15443099,15443099-7,Mauricio Hernan,Diaz,Mendez,EX
+15445806,15445806-9,Luis Humberto,Henriquez,Novoa,GE
+15446645,15446645-2,Javier Alejandro,Bravo,Videla,EX
+15463422,15463422-3,Luis Alejandro,Moris,Rojo,GE
+15479051,15479051-9,Guillermo Andrés,Montecinos,Pacheco,GE
+15507493,15507493-0,Rodrigo Antonio,Nuñez,Salvatierra,IN
+15508226,15508226-7,Javier Eduardo,Vizcarra,Sanhueza,GE
+15518357,15518357-8,Eduardo Andres,Cabezas,Perez,CD
+15522644,15522644-7,Angelo Josue,Nuñez,Alfaro,GE
+15525700,15525700-8,Christian Andres,Vega,Espinoza,GE
+15542249,15542249-1,Jorge Andres,Salas,Pizarro,EX
+15546856,15546856-4,Jorge Andres,Valencia,Veliz,GE
+15553477,15553477-k,Cesar Andres,Calfunao,Calfunao,SP
+15563316,15563316-6,Alan Eduardo,Zbinden,Edwards,EX
+15564501,15564501-6,Heru Alejandra,Romero,Rodriguez,GE
+15565530,15565530-5,Victor German,Sandoval,Gonzalez,TT
+15585332,15585332-8,Heber Jose,Alegria,Montano,GE
+15589019,15589019-3,Hector L.,Castro,Santis,GE
+15589087,15589087-8,Antonio Andres,Feres,Saavedra,EX
+15601934,15601934-8,Sebastian Enrique,Guerra,Meneses,CD
+15602575,15602575-5,Lorna Ivonne,Aviles,Rivera,GE
+15608015,15608015-2,Francisco Omar,Caceres,Silva,GE
+15608358,15608358-5,Victor E.,Obregón,Payacan,GE
+15609275,15609275-4,Cristian Andres,Lagos,Inaiman,CD
+15618502,15618502-7,Marianela Alejandra,Pacheco,Salazar,GE
+15637707,15637707-4,felipe Eduardo,padilla,Jara,GE
+15640730,15640730-5,Kenneth,Robinson,Guevara,GE
+15643669,15643669-0,Maeva Paula,Montalba,Peña,GE
+15664842,15664842-6,Carlos Enrique,Catalan,Lopez,TT
+15668477,15668477-5,Ricardo Alfredo,Duran,Peña,GE
+15708405,15708405-4,Jany Isabel,Mendez,Arellano,DS
+15730307,15730307-4,Armando Andres,Jerez,Oyarce,SX
+15748948,15748948-8,Patricio Alejandro,Contreras,Gonzalez,SX
+15784359,15784359-1,Alvaro amador,Alfaro,Lobos,GE
+15787054,15787054-8,Victor Hugo,Reuque,Fuentes,GE
+15787074,15787074-2,Luis Andres,Bustos,Tapia,GE
+15790487,15790487-6,Pablo Ismael,Olguin,Inostroza,DS
+15791057,15791057-4,Eduardo,Perez,Alvarado,EX
+15838546,15838546-5,Hector Williams,Rebolledo,Meza,GE
+15838549,15838549-k,Felipe Andres,Lopez,Troncoso,EX
+15840663,15840663-2,Juan Ignacio,Castro,Izquierdo,TT
+15887129,15887129-7,Yerko Alejandro,Gonzalez,Vergara,PI
+15893439,15893439-6,Ricardo Alberto,Vidal,De la Iglesia,GE
+15900086,15900086-9,Jaime Andres,Monje,Donoso,SD
+15917184,15917184-1,Hernan David,Carrera,Alarcon,CD
+15917878,15917878-1,Gabriel Antonio,Cancino,Arancibia,SD
+15918267,15918267-3,Ernesto Segundo,Ponce,Manriquez,GE
+15918599,15918599-0,Braulio Felipe,Labra,Arias,EX
+15930284,15930284-9,Daniela Nicole,Burrows,Ilabaca,GE
+15956481,15956481-9,Katherine del Carmen,Alvarez,Zelaya,GE
+15963888,15963888-k,Jimmy Antonio,Castro,Silva,GE
+15979029,15979029-0,Jaime Andres,Muñoz,Ruz,GE
+16030610,16030610-6,Roberto Antonio,Silva,Cisterna,GE
+16030673,16030673-4,Mauricio Daniel,Burgos,Aranis,GE
+16041439,16041439-1,Luis Carlos,Gallardo,Arriagada,GE
+16042873,16042873-2,David Alexis,Castillo,Salas,EX
+16043409,16043409-0,Pia Paulina,Gomez,Parra,GE
+16045405,16045405-9,Cecilia Eliana,Cid, Parra,GE
+16074854,16074854-0,Jaime Esteban,Garrido,Rojas,EX
+16092786,16092786-0,Felipe Andres,Atenas,Forte,GE
+16099588,16099588-2,Martin Cristobal,Arrigorriaga,Amenabar,GE
+16115241,16115241-2,Cesar Antonio,Gonzalez,Gutierrez,TT
+16116535,16116535-2,Victor Angel,Alegria,Alegria,GE
+16119300,16119300-3,Victor Alfonso,Delgado,Farias,EX
+16125201,16125201-8,Roberto Eliseo Hernan,Medina,Ayala,TT
+16144212,16144212-7,Hugo Rodolfo,Arenas,Carrasco,GE
+16150468,16150468-8,Jerson Patricio,Gallegos,Zapata,TT
+16168939,16168939-4,Carlos Alejandro,Maldonado,Aguilera,GE
+16176250,16176250-4,Rodrigo Andres,Jara,Chacana,GE
+16192446,16192446-6,Felipe José,Ampuero,Belmar,CD
+16198895,16198895-2,Cristian Emilio,Urbina,Salas,GE
+16241233,16241233-7,Carlos Andres,Covarrubias,Molina,GE
+16243360,16243360-1,Christian Alberto,Aliaga,Pavez,AD
+16246558,16246558-9,Javier Antonio,Soñan,Curih,GE
+16247031,16247031-0,Carlos Bibiano,Huilipan,Aliante,SX
+16272999,16272999-3,Edgardo Tomas,Lopez,Bustos,GE
+16297171,16297171-9,Mario Cesar,Pereda,Diaz,GE
+16305676,16305676-3,Gustavo Andres,Ramirez,Castillo,TT
+16317670,16317670-K,Victor Antonio,Ramirez,Gutierrez,PI
+16359684,16359684-9,Javier Andres,Troncoso,Herrera,EX
+16360030,16360030-7,Roberto Alejandro,Ruiz,Loi,CD
+16373577,16373577-6,Alan,Aguila,Flores,EX
+16374287,16374287-k,Daniel Ignacio,Ossandon,Ossandon,GE
+16380252,16380252-K,Felipe Andres,Navarro,Baeza,EX
+16384853,16384853-8,Italo Ervacio,Alarcon,Gonzalez,GE
+16387024,16387024-K,Cristian Andres,Matus,Vargas,TT
+16394003,16394003-5,Francisco Javier,Quinteros,Escobar,EX
+16411258,16411258-6,Sebastian Alfredo,Manzo,Del Pino,GE
+16411600,16411600-k,Leonardo Jesus,Toro,Martinez,CO
+16411615,16411615-8,Natan Manuel,Galaz,Espinoza,GE
+16412295,16412295-6,Yeisson Andres,Burgos,Aranis,TT
+16422660,16422660-3,Mauricio Alejandro,Valenzuela,Peña,CD
+16424146,16424146-7,Braulio Sebastian,Parra,Rojas,CD
+16428235,16428235-k,Maria Jose,Espinoza,Saavedra,GE
+16440714,16440714-4,Jose Enrique,Leiva,Bravo,GE
+16455946,16455946-7,Ivan Ignacio,Villalobos,Villalobos,GE
+16512888,16512888-5,Jose Miguel,Zapata,Zapata,GE
+16514728,16514728-6,Boris Ivan,Villaroel,Beltran,TT
+16521704,16521704-7,Diego Andres,Hevia,Perez,GE
+16536387,16536387-6,Juan Pablo,Arias,Zurita,TT
+16543767,16543767-5,Felipe Andres,Jimenez,Montes de Oca,GE
+16562532,16562532-3,Leonard Abel,Rodriguez,Coronado,TI
+16570469,16570469-K,Mauricio Esteban,Gajardo,Bustos,GE
+16572057,16572057-1,Luis Sebastian,Meneses,Zumelzu,CD
+16576814,16576814-0,Alejandro Felipe,Castro,Arenas,GE
+16595425,16595425-4,Liliana Andrea,Aros,Cortes,GE
+16612130,16612130-2,Diego Nicolas,Soto,Castillo,GE
+16617597,16617597-6,Paul Alejandro,Espinosa,Sagredo,GE
+16619725,16619725-2,Gabriel Enrique,Gajardo,Quinchao,CD
+16619767,16619767-8,Matias Fernando,Aranguiz,Pavez,GE
+16619817,16619817-8,Franco Andres,Abrigo,Fernandez,GE
+16623751,16623751-3,Carlos Alberto,Gutierrez,Ulloa,GE
+16624209,16624209-6,Alejandro Andres,Antileo,Gutierrez,GE
+16638537,16638537-7,Angelo Andres,Amigo,Ruz,GE
+16670655,16670655-6,Guillermo,Cespedes,Gutierrez,SX
+16672523,16672523-2,Felipe Andres,Carrasco,Gonzalez,GE
+16682829,16682829-5,Jose Alfredo,Armijo,Carrasco,EX
+16692864,16692864-8,Leonel Enrique,Medina,Valderrama,GE
+16695362,16695362-6,Erick Richard,Soto,Flores,GE
+16710949,16710949-7,Doris M.,Santibañez,Aros,GE
+16716660,16716660-1,Gabirle Alejandro,Molina,Molina,GE
+16717942,16717942-8,Marco Antonio,Conejeros,Arriagada,GE
+16743622,16743622-6,Gaston Fidel,Lagos,Mendez,CO
+16750558,16750558-9,Hector Fernando,Moreno,Catalán,TT
+16769090,16769090-4,Omar Andres,Medina,Gacitua,TT
+16789254,16789254-K,Sebastian Alejandro,Muñoz,Lopez,GE
+16790472,16790472-6,Christ  Ely,Hermosilla,Soto,GE
+16797224,16797224-1,Claudio Antonio,Cortes,Valdovinos,GE
+16797382,16797382-5,Guillermo  Isaias,Cocio,Chapa,EX
+16809950,16809950-9,Pablo Andres,Gonzalez,Perez,GE
+16854354,16854354-9,Raul Alejandro,Aguayo,Oñate,EX
+16862037,16862037-3,Marco Antonio,Diaz,Huerta,GE
+16862174,16862174-4,Camilo Sebastian,Garay,Gonzalez,TT
+16901315,16901315-2,Hugo Andres,Mansilla,Mansilla,SD
+16908908,16908908-6,Alejandro Cristian,Nuñez,Gomez,EX
+16910581,16910581-2,Pedro Alejandro,Valenzuela,Lizana,CD
+16913777,16913777-3,Victor Eduardo,Salas,Baltra,TT
+16915761,16915761-8,Erwin Andres,Beale,Ceballos,GE
+16921783,16921783-1,Raul Ignacio,Yañez,Aviles,CD
+16925214,16925214-9,Diego Alexis,Henriquez,Zamorano,GE
+16938331,16938331-6,Maximiliano Ignacio,Leon,Antinao,CD
+16945378,16945378-0,Alejandro Andres,Yacuzzi,Charao,TT
+16951828,16951828-9,Sergio Esteban,Gonzalez,Guzman,GE
+16977364,16977364-5,Ana Paulina,Soto,Avila,GE
+17002959,17002959-3,Jonathan,Aguilera,Ahumada,EX
+17004838,17004838-5,Alonso Eduardo,Diaz,Elizondo,GE
+17008323,17008323-7,Rodolfo Camilo,Gonzalez,Marileo,CD
+17009687,17009687-8,Joel Isaac,Ortiz,Peña,EX
+17023319,17023319-0,Jesus Eduardo,Castillo,Pardo,TT
+17033756,17033756-5,Luis Esteban,Mansilla,Mansilla,CD
+17042700,17042700-9,Victor Manuel,Soto,Carriel,TT
+17057230,17057230-0,Estrella Laren,Lagos,Millar,GE
+17066010,17066010-2,Luis Ariel,Flores,Troncoso,GE
+17069593,17069593-3,Daniel Wladimir,Araya,Morales,TT
+17071261,17071261-7,Victor Andres,Rivas,Castro,GE
+17087169,17087169-3,Tomas Ignacio,Wielandt,Vidal,GE
+17097593,17097593-6,Javier Rodrigo,Toledo,Ulloa,SX
+17099988,17099988-6,Jonathan Andres,Monje,Donoso,CD
+17104166,17104166-K,Luis Elias,Gonzalez,Santander,GE
+17104539,17104539-8,Jimmi Antonio,Quintana,Aravena,GE
+17106017,17106017-6,Matias Alejandro,Valenzuela,Flores,GE
+17106504,17106504-6,Manuel Enrique,Astorga,Ñancuvil,GE
+17107456,17107456-8,Marcos Aurelio,Martinez,Hernandez,GE
+17108548,17108548-9,Pablo Gabriel,Perez,Silva,TT
+17146300,17146300-9,Cristian Adalberto,Toledo,Yañez,GE
+17163173,17163173-4,Pedro Javier,Leiva,Sepulveda,EX
+17166961,17166961-8,Paula Andrea,Molina,Vargas,GE
+17168869,17168869-8,Edgar Nelson,Helqui,Castillo,TT
+17176723,17176723-7,Cristian Ariel,Gallegos,Ramirez,GE
+17180466,17180466-3,Cesia Noemi,Lazcano,Perez,GE
+17189301,17189301-1,Rodrigo Antonio,Salgado,Nuñez,EX
+17225337,17225337-7,Mario Fabian,Valenzuela,Pinto,GE
+17226328,17226328-3,Abraham Robinson,Aliaga,Pavez,TT
+17227635,17227635-0,Alejandro Osvaldo,Diaz,Cadenas,GE
+17236041,17236041-6,Pablo Andres,Campos,Cuevas,GE
+17250657,17250657-7,Andres Arturo,Perez,Bustos,PI
+17253093,17253093-1,Rigoberto Emilio,Acuña,Contreras,TT
+17260592,17260592-3,Yessenia Isabel,Romero,Diaz,EX
+17270614,17270614-2,Nicolas Anibal,Gonzalez,Jimenez,GE
+17277837,17277837-2,Stephanny Andrea,Pesce,Pizarro,GE
+17281293,17281293-7,Giovanni Marcelo,Osses,Gonzalez,GE
+17281944,17281944-3,Wilson Patricio,Silva,Sanchez,TT
+17286696,17286696-4,Jorge Andres,Jeria,Campos,EX
+17302961,17302961-6,Nicole Lourdes,Calderon, Valenzuela,GE
+17316926,17316926-4,Ivo Franco Oliver,Nilo,Pitriqueo,TT
+17317749,17317749-6,Gonzalo Antonio,Vidal,Riquelme,GE
+17318178,17318178-7,Marcos Ernesto,Campos,Morales,TI
+17336329,17336329-K,Lionela Andrea,Medina,Farfan,GE
+17340550,17340550-2,Karen Daniela,Leon,Reyes,AF
+17341389,17341389-0,Abel Alfonso,Madsen,Aviles,TT
+17378948,17378948-3,Nicolas Efrain,Mena,Valdes,SX
+17380892,17380892-5,David Jonathan,Silva,Salinas,GE
+17383236,17383236-2,Rodrigo Alejandro,Mercado,Cifuentes,TT
+17384651,17384651-7,Bryan Edwars,Fuentealba,Prado,GE
+17386092,17386092-7,Sabastian Eduardo,Fuentes,Arriagada,GE
+17389221,17389221-7,Richard Nicolas,Gutierrez,Rodriguez,PI
+17390948,17390948-9,Juan Pablo,Rojas,Prado,EX
+17424548,17424548-7,Daniela katherine,Serrano,Garcia,GE
+17426933,17426933-5,Juan Ignacio,Ahumada,Jaramillo,GE
+17429384,17429384-8,Eladio Daniel,Rojas,Rojas,EX
+17464677,17464677-5,Manuel Alexander,Benavides,Pacheco,TT
+17483002,17483002-9,Nadin Andrea,Millon,Ortega,GE
+17483168,17483168-8,Carla Cristina,Mendel,Suazo,GE
+17485818,17485818-7,Juan Luis,Catalan,Catalan,GE
+17486739,17486739-9,Christian Vasilyk,Robles,Vergara,GE
+17488278,17488278-9,Paolo Fernando,Torres,Maulme,PI
+17562695,17562695-6,Fernando Alexis,Gonzalez,Castro,TT
+17565818,17565818-1,Carlos Andres,Espinoza,Espinoza,GE
+17572864,17572864-3,Carlos Esteban,Avello,Gonzalez,TT
+17574582,17574582-3,Juan Pablo,Kauzlarich,Hidalgo,TT
+17575030,17575030-4,Cristopher Andres,Salazar,Salvo,GE
+17599579,17599579-k,Martin David,Sanchez,Aguirre,GE
+17603439,17603439-4,Bernardo Esteban,Barrientos,Gomez,TT
+17621034,17621034-6,Eduardo Francisco,Bahamondes,Radrigan,GE
+17622200,17622200-K,Alexander Samir,Cespedes,Frederiksen,TT
+17652492,17652492-8,Diego Ignacio,Palma,Valenzuela,GE
+17653463,17653463-K,Benito Remigio,Cauripan,Huilipan,PI
+17662954,17662954-1,Ricardo Emilio,Ramirez, Romero,CD
+17667367,17667367-2,Tiare Francesca,Zuñiga,Chacon,TT
+17692284,17692284-2,Juan Carlos,Yañez,Barria,GE
+17707025,17707025-4,Juan Pablo,Ganga,Carte,EX
+17716677,17716677-4,Sergio Orlando,Cavieres,Mella,GE
+17729082,17729082-3,Mauro Andres,Nuñez,Ruiz,GE
+17729090,17729090-4,Tamara Margarita,Godoy,Godoy,GE
+17730126,17730126-4,Luis Miguel Angel,Valenzuela,Gonzalez,GE
+17732709,17732709-3,Darco Elias,Macaya,Guajardo,GE
+17733431,17733431-6,Yasna Nicole,Gatica,Valenzuela,GE
+17733685,17733685-8,Diana Alexandra,Cura,Ramos,GE
+17734230,17734230-0,Sebastian Alexis,Pizarro,Schwarzemberg,GE
+17737231,17737231-5,Claudio Sebastian,Huerta,Molina,CD
+17764047,17764047-6,Cristina Andrea,Carvacho,Constanzo,EX
+17768793,17768793-6,Jorge Alejandro,Lazcano,Castro,TT
+17769233,17769233-6,Gabriel Alexis,Espinoza,Carvajal,EX
+17771666,17771666-9,Hector Luis,Alvarez,Valdes,GE
+17779457,17779457-0,Alvaro Andrés,Cárdenas,Burgos,GE
+17781710,17781710-4,Tomas Felipe,Reinoso,Corales,CD
+17784705,17784705-4,Daniel Alejandro,Cayuqueo,Muñoz,TT
+17786106,17786106-5,Pablo Isaac,Gaule,Lopez,CD
+17831883,17831883-7,Alexander Patricio,Jorquera,Zamora,GE
+17835935,17835935-5,Rodrigo Nicolas,Espinoza,Ramirez,GE
+17837983,17837983-6,Luis Alfredo,Bravo,Villalobos,DS
+17839039,17839039-2,Felipe Luis,Vallejos,Cáceres,TT
+17840537,17840537-3,Bastian David,Chinchilla,Catalan,CD
+17841395,17841395-3,Kevin Axel,Lazcano,Sandoval,GE
+17849213,17849213-6,Byron Alan,Olivares,Romero,CD
+17859509,17859509-1,Diego Alejandro,Arias,Ruiz,GE
+17876123,17876123-4,Juan Manuel,Cuevas,Beiza,CD
+17876509,17876509-4,Emmanuel D.,Vallejos,Lineros,GE
+17879456,17879456-6,Rayen Lisette,Gonzalez,Paillal,IN
+17880580,17880580-0,Christian Andres,Sanhueza,Vergara,GE
+17925512,17925512-k,Jose Antonio,Retamal,Tapia,GE
+17925633,17925633-9,Adolfo Manuel,Mesias,Ordenes,GE
+17929058,17929058-8,Mario Antonio,Perez,Vega,PI
+17936235,17936235-K,Diego Jose,Manriquez,De la Vega,TT
+17941071,17941071-0,Patricio Esteban,Campos,Vega,GE
+17949619,17949619-4,Eduardo Humberto,Obreque,Farias,EX
+17953187,17953187-9,Marco Antonio,Baeza,Soza,GE
+17967669,17967669-9,Mario Ariel,Velis,Ramirez,GE
+17968690,17968690-2,Erik Felipe,Salinas,Gallardo,CD
+18008215,18008215-8,Fernando Ariel,Vergara,Tamarin,TT
+18031476,18031476-8,Victoria Elizabeth,Donoso,Barahona,GE
+18039648,18039648-9,Alex Arturo,Reyes,Encalada,TT
+18041713,18041713-3,Carolina Estefania,Bravo,Flores,EX
+18045128,18045128-5,Manuel Cristofer,Caro,Rivas,GE
+18047418,18047418-8,Hector Alejandro,Oyarce,Gutierrez,GE
+18048896,18048896-0,Mauricio Leonardo,Latin,Spicto,CD
+18049362,18049362-k,Gonzaelo Alfredo,Torres,Burgos,EX
+18051967,18051967-K,Diego Emmanuel,Villegas,Vilches,GE
+18052815,18052815-6,Victor Isaac,Oyanedel,Fernandez,GE
+18053181,18053181-5,Jorge Ignacio,Olea,Olea,EX
+18053436,18053436-9,Ruben Hernan,Barrera,Parra,GE
+18053862,18053862-3,Jonathan Antonio,Valdes,Suazo,TT
+18063819,18063819-9,Cesar Javier,Trujillo,Silva,GE
+18065455,18065455-0,Sebastian Alexis,Hidalgo,Ovalle,GE
+18070572,18070572-4,Pablo Gabriel,Garcés,Negrete,CD
+18072552,18072552-0,Alejandro,Perez,Carrizo,GE
+18081915,18081915-0,Manuel Jesus,Beiza,Sanchez,CD
+18082820,18082820-6,Matias Andres,Vega,Corvalan,GE
+18082985,18082985-7,Javier Eduardo,Lopez,Mendez,EX
+18087810,18087810-6,Michelle Fernanda,Cuevas,Arias,GE
+18090432,18090432-8,David Moises,Zenteno,Sotomayor,TT
+18095295,18095295-0,Patricio Osvaldo,Alvarez,Zelaya,GE
+18095559,18095559-3,Diego Angelo,Fuentes,Saenz,TT
+18104508,18104508-6,Diego Nicolas,Gandarillas,Corral,GE
+18118217,18118217-2,Fernando Andres,Avila,Marileo,GE
+18118447,18118447-7,Kebin Nicolas,Leiva,Veas,GE
+18121512,18121512-7,Luis David,Rubilar,Zamorano,GE
+18151145,18151145-1,Eleazar Eduardo,Vejar,Belmar,GE
+18151943,18151943-6,Hector Jose,Manzano,Ortiz,GE
+18169401,18169401-7,Brian Andres,Molina,Ramirez,GE
+18185188,18185188-0,Gianni Paolo,Vera,Colecchio,GE
+18189482,18189482-2,Luis Andres,Ponce,Martinez,PI
+18189710,18189710-4,Jonathan Alberto,Adasme,Espinosa,GE
+18189931,18189931-K,Claudio Ignacio,Soto,Villegas,GE
+18203224,18203224-7,Alexis,Gallegos,Gallegos,GE
+18219657,18219657-6,Rodrigo Alfredo,Aravena,Yañez,GE
+18221692,18221692-5,Jonathan Leandro,Rubio,Povea,GE
+18223649,18223649-7,Mauricio Alejandro,Pasten,Garcia,GE
+18242822,18242822-1,Francisco Javier,Vega,Perez,TT
+18277810,18277810-9,Alejandro Javier,Candia,Carreño,SX
+18286189,18286189-8,Cristian Felipe,Gajardo,Espinosa,SX
+18289493,18289493-1,Bastian Marco Antonio,Ortega,Aguila,PI
+18295015,18295015-7,Javier Eduardo,Flores,Roa,GE
+18295452,18295452-7,Marco Antonio,Cordova,Fredes,GE
+18321458,18321458-6,German Matias,Contreras,Gonzalez,GE
+18325262,18325262-3,Claudio Humberto,Canales,Canelo,CD
+18325745,18325745-5,Fabian Andrei,Cordero,Valenzuela,GE
+18326071,18326071-5,Pedro Felipe,Valdebenito,Lopez,GE
+18328523,18328523-8,Daniela Andrea,Molina,Berrios,GE
+18340177,18340177-7,David Ignacio,Gamboa,Morales,GE
+18341343,18341343-0,Mario Andres,Pardo,Pavez,GE
+18347685,18347685-8,MARCELO ALEJANDRO,BRITO,BAHAMONDES,EX
+18355665,18355665-7,David Alejandro,Garay,Iturra,GE
+18372256,18372256-5,Marcos Alejandro,Quezada,Escobar,GE
+18381726,18381726-4,Renzo Alexander,Maggiolo,Botto,EX
+18397624,18397624-9,Juan Alejandro,Cayuqueo,Aguirre,TT
+18401995,18401995-7,Humberto Alejandro,Diez,Queupil,CD
+18422925,18422925-0,Jonas Enrique,Valenzuela,Rojel,GE
+18425413,18425413-1,Emilio Antonio,Ossandon,Reinoso,GE
+18457146,18457146-3,Franco Andres,Gutierrez,Vilchez,GE
+18458572,18458572-3,Francisco Javier,Barra,Muñoz,CD
+18462665,18462665-9,Sebastian Ignacio,Arroyo,Labrin,EX
+18463089,18463089-3,Helvio Andres,Reyes,Rathgeb,GE
+18479067,18479067-k,Manuel Alejandro Andres,Morales,Catalan,EX
+18480972,18480972-9,Boris Mauricio,Velasquez,Cespedes,TT
+18481163,18481163-4,Jose Miguel,Lagos,Zenteno,GE
+18496267,18496267-5,Christian Byron,Martínez,Vergara,GE
+18497153,18497153-4,Nicolas Eduardo,Olguin,Rodriguez,CD
+18533638,18533638-7,Fabian,Romero,Mendez,EX
+18544516,18544516-K,Manuel Alonso,Aroca,Salazar,GE
+18546224,18546224-2,Matias Gustavo,Guillermo,Varas,EX
+18546665,18546665-5,Christian Ignacio,Frei,Valenzuela,GE
+18547379,18547379-1,Sergio Andres,Rubio,Ribe,EX
+18581151,18581151-4,Felipe Esteban,Astorga,Castillo,CD
+18581936,18581936-1,Luis Antonio,Pilquil,Landeros,SX
+18598096,18598096-0,Esteban Antonio,Nuñez,Sanchez,GE
+18605178,18605178-5,Fidel Eduardo,Sepulveda,Silva,TT
+18606774,18606774-6,Manuel Ignacio,Silva,Salinas,GE
+18606841,18606841-6,Joan Alex,Burgos,Acuña,SX
+18606925,18606925-0,Mauro Bastian,Muñoz,Ugalde,EX
+18607585,18607585-4,Patricio Miguel,Donoso,Valdes,GE
+18612660,18612660-2,Anderson Patricio,Altamirano,Crisostomo,EX
+18612983,18612983-0,Luis Alberto,Cancino,Canales,EX
+18621048,18621048-4,Ricardo Ruben,Cortez,Toro,CD
+18625470,18625470-8,Patricia Ximena,Diaz,Lazcano,GE
+18627422,18627422-9,Stephanie Alejandra,Aguilera,Salazar,TT
+18686406,18686406-9,Esteban Giovanni,Diaz,Aranda,TT
+18693359,18693359-1,Guillermo Felipe,Lizama,Avalos,GE
+18695643,18695643-5,Jorge Alejandro,Campos,Diaz,GE
+18700673,18700673-2,Claudio Angelo,Soto,Alvarez,GE
+18724668,18724668-7,Jaime Lorenzo,Huenchun,Jara,GE
+18724749,18724749-7,Eduardo Ernesto,Morales,Berrios,GE
+18726168,18726168-6,Ricardo Andres,Curiqueo,Muñoz,PI
+18739155,18739155-5,Claudio Eduardo,Gonzalez,Gonzalez,GE
+18743614,18743614-1,Claudio Marcelo,Segura,Blanco,TT
+18749478,18749478-8,Eric  Alejandro,Muñoz,Ponce,EX
+18761500,18761500-3,Erick Matias,Lizana,Calderon,GE
+18761849,18761849-5,Sergio Luis,Valdes,Marchant,SX
+18762587,18762587-4,Bastian Alejandro,Miles,Ahumada,GE
+18768014,18768014-k,Nicolas Matias,Muñoz,Astudillo,GE
+18796232,18796232-3,Carlos Francisco,Leal,Cordova,GE
+18800250,18800250-1,Carlos Ignacio,Gallegos,Toloza,CO
+18839255,18839255-5,Michelle Constanza,Andrades,Parra,GE
+18839321,18839321-7,Felipe Andres,Perez,Silva,EX
+18849154,18849154-5,Mauricio Andres,Erices,Morales,EX
+18862107,18862107-4,Nicolas Alejandro,Rodriguez,Romo,GE
+18862646,18862646-7,Oliver Jesus,Hidalgo,Ruz,GE
+18863765,18863765-5,Felipe Nicolas,Sepulveda,Rojas,GE
+18865948,18865948-9,Ariel Marcelo,Villanueva,Acuña,TT
+18868921,18868921-3,Jorge Luis,Garcia,Mamani,TT
+18908652,18908652-0,Daniel Abraham,Gonzalez,Velasquez,GE
+18909024,18909024-2,Matias Ignacio,Sanchez,Salas,GE
+18909731,18909731-K,Matias David,Oller,Soto,TT
+18937649,18937649-9,Daniel Andres,Rubilar,Farias,CD
+18938054,18938054-2,Ana Isabel,Morales,Tureuna,CD
+18941401,18941401-3,Alvaro Fernando,Meneses,Opazo,GE
+18942235,18942235-0,Mauricio Alejandro,Acevedo,Contreras,GE
+18946169,18946169-0,Diego Anthony,Muñoz,Alvarez,GE
+18946719,18946719-2,Giovanni Antonio,Zamora,Alarcón,TT
+18947809,18947809-7,Andres Antonio,Miranda,Nuñez,GE
+18948222,18948222-1,Cristopher Jimmy Jhon,Gutierrez,Villegas,EX
+18951110,18951110-8,Claudio Fernando,Vidal,Runin,GE
+18951355,18951355-0,Brian Esteban,Rivera,Proboste,TI
+18974268,18974268-1,Matias Ignacio,Jofre,Flores,EX
+18975483,18975483-3,Alan Felipe,Riquelme,Gutierrez,GE
+18976032,18976032-9,Francisco Javier,Rivero,Valdivia,PI
+18994519,18994519-1,Yarelly Denisse,Ossandon,Prieto,TT
+19022443,19022443-0,Sebastian Andres,Castillo,Diaz,TT
+19023204,19023204-2,Andres,Arias,Salazar,EX
+19023476,19023476-2,Camilo Enrique,Carrasco,Torres,GE
+19038871,19038871-9,Johao Ismael,Ojeda,Miño,GE
+19060757,19060757-7,Fabian Antonio,Ibarra,Mondaca,GE
+19073253,19073253-3,Diego Alejandro,Yañez,Parra,EX
+19093382,19093382-2,Jose Enrique,Canales,Canelo,GE
+19093406,19093406-3,Francisco Javier,Gazzola,Araya,TT
+19094214,19094214-7,Bastian Andreas,Aguilera,Peña,TT
+19114244,19114244-6,Matias Felipe,Castillo,Valdes,EX
+19161959,19161959-5,Franco,Soto,Carvajal,GE
+19162462,19162462-9,Ignacio Patricio,Pardo,Riveros,GE
+19171442,19171442-3,Hernan Francisco,Martinez,Moya,GE
+19183409,19183409-7,Alejandro Antonio,Pino,Pereira,GE
+19183481,19183481-k,Fernando,Vilches,Salas,GE
+19183648,19183648-0,Bastian Ignacio,Leiva,Veas,GE
+19200592,19200592-2,Octavio Ramón,Ibarra,Arvelaez,GE
+19232798,19232798-9,Jeremy Eduardo,Ross,Martinez,EX
+19233115,19233115-3,Jordan Andres,Roa,Rodriguez,EX
+19233905,19233905-7,Kevin,Gallardo,Picart,TT
+19237919,19237919-9,Ariel Ignacio,Fazekas,Barrera,EX
+19239966,19239966-1,Felipe Antonio,Salas,Gonzalez,TT
+19249182,19249182-7,Flavio Ignacio,Valdebenito,Caamaño,GE
+19276244,19276244-8,Hans  Eduardo,Vergara,Urzua,EX
+19279352,19279352-1,Alejandro Valentin,Escobar,Urbina,SX
+19283436,19283436-8,Juan Eduardo,Lagos,Muñoz,CD
+19312742,19312742-8,Brayan Alexander,Rios,Pedreros,TT
+19319985,19319985-2,Nicolas,Contreras,Curin,EX
+19326829,19326829-3,Bastian,Cerda,Hervia,EX
+19343402,19343402-9,Gerald Cristopher,Martinez,Carrasco,GE
+19345050,19345050-4,Jonathan Andres,Diaz,Silva,DS
+19377814,19377814-3,Sebastian Fernando,Fernandez,Soto,CD
+19383667,19383667-4,Cristopher Camilo,Burgos,Aranis,GE
+19439083,19439083-1,Brayan Alexander,Valdebenito,Oliva,EX
+19441472,19441472-2,Cristobal Andres,Correa,Perez,GE
+19500261,19500261-4,Matias Franco,Luna,Miranda,SX
+19504584,19504584-4,Kevin Nicolas Antonio,Muñoz,Varela,EX
+19535536,19535536-3,Matia Gonzalo,Osses,Perez,GE
+19544622,19544622-9,Hans Kevin,Muñoz,Schmied,CD
+19545387,19545387-K,Alfredo Gabriel,Alvarez,Cubillos,TT
+19547616,19547616-0,Pablo Patricio,Arroyo,Hernandez,GE
+19548043,19548043-5,Mauricio Andres,Vallejo,Serey,GE
+19555787,19555787-k,Emmanuel Andree,Ruiz,Andrade,GE
+19559096,19559096-6,Safir Jazmin,Vieras,Nuñez,EX
+19560005,19560005-8,Jacqueline Alejandra,Riffo,San Martin,GE
+19561822,19561822-4,Martin Alejandro,Contreras,Cruz,PI
+19562749,19562749-5,Danilo Ignacio,Maldonado,Lucero,GE
+19563107,19563107-7,Johan Alejandro,Codoceo,Arancibia,GE
+19563461,19563461-0,Diego Enos,Guzman,Pradenas,TT
+19585366,19585366-5,Jordan,Gajardo,Rubilar,EX
+19587787,19587787-4,Ignacio Antonio,Martinez,Araya,GE
+19593619,19593619-6,Juan Mauricio,Urrutia,Matamala,GE
+19634816,19634816-6,Yerson Adolfo,Carcamos,Rojas,GE
+19670875,19670875-8,CRISTOBAL LENIN,VILLANUEVA,POLANCO,EX
+19684291,19684291-8,Franco David,Diaz,Calderón,CD
+19704361,19704361-K,Hugo Ignacio,Vidal,Villagra,TT
+19706695,19706695-4,Kevin,Bucarey,Navarro,EX
+19707721,19707721-2,Nicolas Alejandro,Salinas,Tobar,TT
+19715164,19715164-1,Juan Alejandro,Quezada,Soto,TT
+19729208,19729208-3,Marcelo Esteban,Martinez,Gonzalez,EX
+19730872,19730872-9,Esteban Alexis,Vargas,Perez,SP
+19732016,19732016-8,Ignacio Eduardo,Carrasco,Galleguillos,GE
+19743448,19743448-1,Alfonso de Jesus,Silva,Lizana,CD
+19753075,19753075-8,Kevin Matias,Milleres,Arriagada,TT
+19753266,19753266-1,Jonathan,Balague,Moraga,SX
+19782663,19782663-0,FELIPE ANDRES,ARENAS,CHANDIA,EX
+19783508,19783508-7,Mauricio Esteban,Olguin,Rodriguez,DS
+19802373,19802373-6,Mauricio Fhillip,Marcos,Alvarez,TT
+19805012,19805012-1,José Luis,Rojas,Estobar,EX
+19821949,19821949-5,Cristopher Antonio,Olguin,Hernandez,SX
+19830129,19830129-9,Alexander Nicolas,Santos,Lagos,TT
+19845833,19845833-3,Michael Andres,Flores,Castillo,TT
+19846303,19846303-5,Iann Nicolas,Corrales,Riquelme,GE
+19847084,19847084-8,Ignacio Andres,Salinas,Thaler,EX
+19877973,19877973-3,Anthony Bryan,Valderrama,Martinez,EX
+19883726,19883726-1,Cristian Antonio,Vallejos,Solis-Rosas,SX
+19885641,19885641-K,Thomas Eduardo,Pinto,Rivera,TT
+19901267,19901267-3,Douglas Mauricio,Soto, Olguin,PI
+19902512,19902512-0,Rodrigo  Daniel,Rojas,Pino,EX
+19915724,19915724-8,Nicolas Alberto,Mazuela,Fuentes,TT
+19919528,19919528-K,Ricardo,Puen,Puen,SX
+19929764,19929764-3,Darinka Patricia Esperanza,Fuentes,Meli,GE
+19930990,19930990-0,Jorge Eduardo,Gallegos,Merino,GE
+20082893,20082893-3,Franco Ignacio,Obreque,Pinochet,GE
+20120053,20120053-9,Vicente Dario,Gutierrez,Gutierrez,DS
+20142768,20142768-1,Ulises Alejandro,Muñoz,Palacios,CD
+20148177,20148177-5,Felipe Abraham,Muñoz,Farias,EX
+20186931,20186931-5,Marcelo Adonis,Pinilla,Soumatre,EX
+20187297,20187297-9,Carlos  Eduardo,Pardo,Cerda,EX
+20189786,20189786-6,Nicolas Gabriel,Segura,Morales,EX
+20190652,20190652-0,Victor Hugo,Sepulveda,Benavides,TT
+20195919,20195919-5,Kenneth Esteban,Prado,Lagos,CD
+20199622,20199622-8,Sebastian Ignacio,Olate,Carrasco,TT
+20200856,20200856-9,Julio Cesar,Paidil,Lopez,EX
+20201415,20201415-1,Matias Ignacio,Ferreira,Millanao,CD
+20204055,20204055-1,Sebastian Ignacio,Hidalgo,Figueroa,TT
+20238934,20238934-1,Fernando Ignacio,Aguerrea,Inostroza,EX
+20280168,20280168-4,Jorge Luis Moises,Manquez,Navarrete,EX
+20281400,20281400-k,Matias Andres,Peña,Hernandez,EX
+20325906,20325906-9,Jeremmy Sebastian,Corona,De La Jara,TT
+20397438,20397438-8,Leonardo Adrian,Cerda,Martinez,GE
+20409691,20409691-0,Bairon Andres,Esteban,Lanas,TT
+20410102,20410102-7,Rodrigo Sebastian,Araya,Gonzalez,TT
+20419991,20419991-4,Emanuel Alejandro,Jara,Garrido,SX
+20464781,20464781-K,Ignacio Alejandro,hidalgo,gonzalez,CD
+20471975,20471975-6,Franco Andrés,Nilo,Almeyda,EX
+20497896,20497896-4,Bryan Alexander,Vasquez,Riveros,TT
+20499219,20499219-3,Johann Osvaldo,Troncoso,Flores,TT
+20551232,20551232-2,Jeremias Patricio,Gomez,Espinoza,CD
+20562672,20562672-7,Ricardo Alexander,Perez,Labarca,EX
+20577191,20577191-3,Agustin Ambrosio,Zegers,Diaz,EX
+20592341,20592341-1,Luigi  Isaac,Vargas,Saavedra,EX
+20647085,20647085-2,Sebastian,Aguilera,Soto,SX
+20669054,20669054-2,Alexis Javier,Cuevas,Fuentes,EX
+20708130,20708130-2,Bastian Ignacio,Acevedo,Mariscal,EX
+20781774,20781774-0,Claudio,Figueroa,Hormazabal,EX
+20790694,20790694-8,Axel  Dylan,Jerez,Aguilera,EX
+20792710,20792710-4,Bairon Alejandro,Monsalve,Saez,CD
+20809495,20809495-5,Fernanda Jesús,Urria,Gonzalez,AF
+20825940,20825940-7,Nicolás Andrés,Torres,Sáez,EX
+20829239,20829239-0,Jean Franco,Vargas,Perez,PI
+20829713,20829713-9,Daniel,Troncoso,Troncoso,EX
+20830149,20830149-7,Isaac Jonathan,Espinoza,Contreras,EX
+20845860,20845860-4,Fernando Antonio,Muñoz,Echeverria,SX
+20883986,20883986-1,Pedro Pablo,Duque,Aviles,CD
+20940265,20940265-3,Matias Antonio,Molina,Fernandez,TT
+20963218,20963218-7,Benjamin  Jefferson,Duran,Arriaza,CD
+21014957,21014957-0,Eduardo Andres,Salgado,Chavez,PI
+21055081,21055081-K,Sebastian Ignacio,Alveal,Saez,CD
+21055720,21055720-2,Kevin Jesus,Quezada,Moraga,EX
+21073562,21073562-3,GUSTAVO ALEJANDRO,CRISTI,LUCO,EX
+21079366,21079366-6,Claudio  Felipe,Diaz,Vidal,SX
+21085126,21085126-7,Sergio Alonso,Muñoz,Castillo,CD
+21096115,21096115-1,Estrella Estefania Valesca,Tabitaud,Gaete,IN
+21198760,21198760-K,Gerald Ariel,Escobar,Escobar,EX
+21252110,21252110-8,Jose Hernan,Marinao,Salinas,EX
+21256070,21256070-7,Rodolfo Alberto,Quezada,Vergara,CD
+21529410,21529410-2,Bastian Andres,Bravo,Tobar,EX
+21591838,21591838-6,Alan,Guerra,Diaz,EX
+21621123,21621123-5,Franchesco Enrique,Quintana,Gaete,AP
+21659107,21659107-0,Claudio Antonio,FIgueroa,Colligual,AP
+21692890,21692890-3,Martin,Meza,Rodriguez,AP
+21693403,21693403-2,Tomas,Conejeros,Conejeros,AP
+21710754,21710754-7,Mateo Javier,Gonzalez,Soto,EX
+21728120,21728120-2,Conrado Alejandro,Retamales,Pacheco,GE
+21741182,21741182-3,Alejandro Jesus,Rapiman,Troncoso,TT
+21777702,21777702-k,Leonardo,Salazar,Palma,AP
+21829832,21829832-k,Gabriel Andres,Salamanca,Olguin,AP
+22037542,22037542-0,Patricio Eduardo,Gonzalez,Ortiz,SX
+22406602,22406602-3,Chaylen Jhessenia,Salazar,Davila,GE
+22502541,22502541-k,Diego Samir,Cayllahua,Vargas,GE
+22522240,22522240-1,Julio Rafael,Rojas,Bocanegra,GE
+22995430,22995430-k,Alexis Antonio,Salas,Gonzalez,EX
+23095285,23095285-K,Pierre Fils,Yacinthe,Yacinthe,GE
+23710637,23710637-7,Victor Alexander,Cruz,Rodriguez,CD
+23916082,23916082-4,Rafael Antonio,Meneses,Garcia,GE
+23936726,23936726-7,John Edinson,Suarez,Gallo,CD
+23948489,23948489-1,Cristian,Almiron,Mendez,TT
+23997438,23997438-4,Diego Javier,Moya,Rojas,GE
+24053166,24053166-6,William Maolin,Chan,Dillon,GE
+24233522,24233522-8,Erwin Guido,Villena,Arbulu,TT
+24288821,24288821-9,Wilmer Fabian,Valencia,Asprilla,GE
+24483276,24483276-8,Sandra Eugenia,Tobon,Maya,GE
+24567107,24567107-5,Jesus David,Sanchez,Sanchez,TT
+24730607,24730607-2,Miller Jhony,Benites,Ventura,GE
+24856062,24856062-2,Jose David,Hernandez,Urra,EX
+24900189,24900189-9,Miguel Angel,Gomez,Mora,TT
+25272916,25272916-k,Milagros Carmen Beatriz,Rivero,Fornes,GE
+25371619,25371619-3,Victor Eduardo,Melendez,Mireles,CD
+25376412,25376412-0,Josmar Javier,Contreras,Negretti,GE
+25489866,25489866-K,Julio Gabriel,Morey,Astudillo,GE
+25568720,25568720-4,Jose Manuel,Medina,Buitrago,EX
+25577289,25577289-9,Karely del Valle,Perez,Barreto,GE
+25677037,25677037-7,German Adolfo,Varela,Hernandez,EX
+25681554,25681554-0,Luis Miguel,Bibiano,Rojas,TT
+25828364,25828364-3,Ivan Jesus,Cedeno,Balestrini,TT
+25924461,25924461-7,Lervin Antonio,Silva,Torres,IN
+25931260,25931260-4,Javier Nahim,Marquez,Velastegui,TT
+26024989,26024989-4,Steevenson,Pierre,Pierre,CD
+26070696,26070696-9,Luis Enrique,Guzman,Ortega,EX
+26080836,26080836-2,Lester José,Navas,Alvarado,TT
+26083000,26083000-7,Ali Raniero,Cesares,Morales,EX
+26116433,26116433-7,Enrique Segundo,Orozco,Marrero,CD
+26145288,26145288-K,Ricardo Daniel,Trujillo,Bolivar,AF
+26266328,26266328-0,Miguel Alejandro,Viloria,Cardenas,EX
+26291267,26291267-1,Jose Luis,Blanco,Ramos,CD
+26297172,26297172-4,Daniel Alexander,Gonzalez,Gonzalez,CD
+26299315,26299315-9,Jose Angel,Calderon,Ortiz,EX
+26341141,26341141-2,Jose Manuel,Figueredo,Diaz,CD
+26386409,26386409-3,William José,Castro,Montiel,CD
+26477153,26477153-6,Dannis Gregorio,Decena,Quintana,CD
+26499597,26499597-3,Sixto Ramon,Rodriguez,Pirela,EX
+26511771,26511771-6,Eli David,Barroyeta,Chavez,TT
+26537138,26537138-8,Luis Eduardo,Mijares,Yañez,SX
+26539667,26539667-4,Ronyi Alberto,Carrasquero,Carrasquero,CD
+26541167,26541167-3,Miguel Angel,Gil,Kepp,CD
+26554636,26554636-6,Annel Nazareth,Osorio,Lopez,SX
+26569276,26569276-1,Edgar Enrique,Rojas,Cortes,EX
+26597552,26597552-6,Albert Alexander,Abreu,Gonzalez,SX
+26602794,26602794-K,David  Gregorio,Guerra,Tapia,EX
+26623806,26623806-1,Jesus Adrian,Sayago,Moreno,SX
+26629483,26629483-2,Nestor Jose,Lopez,Sanchez,SX
+26663721,26663721-7,Jorge Omar,Gil,Ortega,EX
+26671173,26671173-5,Edgar Jose,Freites,Pino,DS
+26771805,26771805-9,Yuraldin Adriana,Ollarves,Machis,IN
+26779529,26779529-0,Alfredo Leonardo,Molero,Romay,GE
+26891879,26891879-5,Sonny,Rincon,Rincon,SX
+26910016,26910016-8,JOSE JAVIER,DIAZ,Guaicara,EX
+26949308,26949308-9,Jhon Rafael,Toro,Bello,EX
+27054282,27054282-4,Cruz Avelino,Boyer,Morales,EX
+27087008,27087008-2,Luis Alberto,Niño,Suarez,CD
+27111489,27111489-3,Jose Alberto,Gimenez,Guerra,SX
+27155507,27155507-5,Miguel Jose,Machis-,Stanco,IN
+27204755,27204755-3,Jose Felix,Rivera,Manzanilla,CD
+27336604,27336604-0,Leonel David,Quiaro,Gil,EX
+27708260,27721286-2,Leiddy Del Carmen Sarai,Muñoz,Gonzalez,IN
+33120054,33120054-9,Alfredo Leonardo,Molero,Romay,GE
+33183743,33183743-1,Nestor Javier,Gutierrez,Lopez,TT
+33184052,26904717-8,Jenny del Carmen,Giron,de Uban,AD
+40057241,26737130-k,Ylvin Jose,Fernandez,Molina,DS
+40097806,25840372-K,Yerodalys Arlen,Reveron,Hernandez,DS
+40102442,25839353-8,Angel Eduardo,Arevalo,Reyes,GE
+40234580,26161628-9,Carlos Alberto,Lugo,Lugo,GE
+69730639,6973063-9,Víctor Manuel,Andrade,Abarca,GE
+71290524,25598068-8,Anyelin Trinidad,Arambulo,Sanchez,GE
+73457949,40073532-8,Lila Alejandra,Rios,Martínez,GE
+122186806,12218680-6,Francisco Javier,Olmedo,Camblor,GE
+126552661,12655266-1,Alexis Francisco,Vidal,Cerda,GE
+129587687,12958768-7,Cristian Mauricio,Urzua,Diaz,GE
+142025604,14202560-4,Manuel Emilio,Sanchez,Plaza,GE
+156066664,15606666-4,Felipe Ignacio,Silva,Vargas,GE
+159667987,15966798-7,Mauricio Javier,Candia,Silva,GE
+169238979,16923897-9,Moises Joaquin,Rivas,Palma,GE
+177316911,17731691-1,Stephanie,López,Charrie,GE
+7070789,7070789-6,Yazmin Amada,Zilleruelo,Aranda,CO
+8555642,8555642-8,Nicolas Ariel,Di Biase,Friedmann,CR
+19310198,19310198-4,Daniela Alejandra,Gonzalez,Humeres,CO
